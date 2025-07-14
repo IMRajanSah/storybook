@@ -1,5 +1,7 @@
 # React + TypeScript + Vite
 Static Site : https://my-learning-storybook.netlify.app/ 
+npm - https://www.npmjs.com/package/npm-learning-rajansah
+npm run build, npm publish --access public
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
